@@ -18,8 +18,6 @@
 ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄⠄⠄⢹⣿⣿⣿⣿⣿⣿⣿⣿⠁⠄
 ⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄ ⠄ ⠄⠸⣿⣿⣿⣿⣿⡿⢟⠄⠄
 
-http://text-image.ru/news/zhopa_iz_simvolov/2020-12-01-8009
-
 
 <!---
 Amorebora/Amorebora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
